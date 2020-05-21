@@ -1,0 +1,7 @@
+.wrapper {
+  text-align: left;
+}
+.srch-box {
+  display: flex;
+  justify-content: flex-end;
+}
